@@ -53,6 +53,7 @@ a {
 .form-wrap .form-group input:focus {
   border: 1px solid #26687F;
   box-shadow: 2px 2px 4px #26687F;
+  outline: none;
 }
 
 .form-wrap button {
